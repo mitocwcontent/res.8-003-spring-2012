@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-2cb2c0bf670c4ec08358b8060d1ed559
+  name: Online Publication
+  url: http://tsgphysics.mit.edu/front/
+  weight: 1000
